@@ -38,7 +38,7 @@ The plot below demonstrates the loss reduction across epochs, showing the model'
 ---
 
 ## 🚀 Streamlit Web Application
-An interactive [Streamlit web application]([ADD_YOUR_STREAMLIT_APP_LINK_HERE](https://cnn-mnist-uvtrszxczn3qcd3yt4m6am.streamlit.app/)) enables users to upload images of handwritten digits and get predictions in real time, powered by the trained CNN model.
+An interactive [Streamlit web application](https://cnn-mnist-uvtrszxczn3qcd3yt4m6am.streamlit.app/) enables users to upload images of handwritten digits and get predictions in real time, powered by the trained CNN model.
 
 ### 💻 App Interface
 The app features a sleek and intuitive interface:
