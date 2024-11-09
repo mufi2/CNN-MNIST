@@ -42,7 +42,7 @@ An interactive [Streamlit web application]([ADD_YOUR_STREAMLIT_APP_LINK_HERE](ht
 
 ### 💻 App Interface
 The app features a sleek and intuitive interface:
-![Streamlit App Screenshot](![image](https://github.com/user-attachments/assets/61860ceb-951a-42df-9ff0-2e601f92db14))
+![image](https://github.com/user-attachments/assets/61860ceb-951a-42df-9ff0-2e601f92db14)
 
 Upload an image, and the model will instantly classify the digit with high precision.
 
