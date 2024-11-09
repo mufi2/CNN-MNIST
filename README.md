@@ -29,7 +29,7 @@ During training, the model's loss and accuracy are evaluated at each epoch. This
 
 ### 🔹 Training Loss
 The plot below demonstrates the loss reduction across epochs, showing the model's learning progression:
-![Training Loss Plot](images/training_loss.png)
+![result_15](https://github.com/user-attachments/assets/559f93dd-fb85-493d-bb18-463686aaabe9)
 
 ### 🔹 Accuracy
 - **Training Accuracy**: 98.30%
