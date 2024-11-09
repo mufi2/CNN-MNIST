@@ -35,7 +35,7 @@ class CNN(nn.Module):
 # Load the trained model
 model = CNN()
 model.load_state_dict(
-    torch.load("..Model/cnn_model.pkl", map_location=torch.device("cpu"))
+    torch.load("../Model/cnn_model.pkl", map_location=torch.device("cpu"))
 )
 model.eval()
 
